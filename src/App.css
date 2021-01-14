@@ -1,0 +1,22 @@
+.afficher {
+  display : flex;
+  flex-wrap: wrap;
+  margin: 0px -15px;
+  color :#fff;
+  padding : 5px;
+  background: #445565;
+  display: flex;
+
+}
+container {
+  flex-direction: row ;
+}
+
+table
+{
+    border-collapse: collapse; 
+}
+td
+{
+    border: 1px solid black;
+}
